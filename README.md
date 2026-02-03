@@ -259,9 +259,6 @@ Esta carpeta contiene toda la documentación necesaria para la actividad de **Ad
 
 ---
 
-#### Control de Versiones
-
-**Repositorio:** https://github.com/tu-usuario/techprojects-app
 
 **Estrategia:** Git Flow
 
@@ -434,11 +431,7 @@ techprojects-app/
 
 ---
 
-## 📄 Licencia
 
-Este proyecto es de carácter académico y está licenciado bajo MIT License.
-
----
 
 ## 📊 Estadísticas del Proyecto
 
@@ -468,37 +461,3 @@ Este proyecto es de carácter académico y está licenciado bajo MIT License.
 - Ramas creadas: 10+
 - Tags: 3
 - Contribuidores: 5
-
----
-
-## ✅ Checklist de Entrega
-
-### Antes de Entregar
-
-- [ ] Todos los documentos en /docs están completos
-- [ ] Código fuente está completo y funcional
-- [ ] Pruebas automatizadas pasan (npm run test:run)
-- [ ] Repositorio creado en GitHub
-- [ ] README.md actualizado con enlace de repositorio
-- [ ] Video grabado (10-15 minutos)
-- [ ] Video subido a YouTube/Drive con enlace público
-- [ ] Reporte en Word elaborado (25-35 páginas)
-- [ ] 28+ capturas de pantalla incluidas en reporte
-- [ ] Gráficas creadas (burndown, velocidad, proveedores)
-- [ ] Enlace de GitHub incluido en reporte
-- [ ] Enlace de video incluido en reporte
-- [ ] Ortografía y gramática revisadas
-- [ ] Formato del documento correcto (Arial 12pt, 1.5 interlineado)
-- [ ] Referencias en formato APA
-- [ ] Documento PDF generado del reporte Word
-- [ ] Todo listo para entregar ✅
-
----
-
-**Última actualización:** 02 de febrero de 2026  
-**Versión de documentación:** 1.0  
-**Estado del proyecto:** Completo y listo para entrega
-
----
-
-¡Éxito con tu actividad! 🚀📚
